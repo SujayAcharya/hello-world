@@ -22,11 +22,6 @@
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    <br>
-
-    <label for="College Name"><b>Enter College Name</b></label>
-    <input type="text" placeholder="Enter College Name" name="email" id="email" required>
-    <br>
     <hr>
    
     <br>
